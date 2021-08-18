@@ -1,0 +1,59 @@
+body {
+    background: linear-gradient(45deg, #40a3b7, #53c1a4);
+}
+.container{
+    text-align: right;
+    border: solid 1px black;
+    border-radius: 3px;
+    width: 200px;
+    background-color: #b6b6b6;
+    box-shadow: 2px 2px 5px black ;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+#name{
+    text-align: left;
+    float: left;
+    margin: 5px 5px;
+}
+.solar{
+    background-color: #79574d;
+    height: 20px;
+    width: 100px;
+    margin: 5px 5px;
+    float: right;
+}
+
+.screen {
+    background-color: #8ba29a;
+    width: 150px;
+    height: 25px;
+    margin-left: 20px;
+}
+#display{
+    margin-top: 30px;
+    margin-right: 10px;
+    margin-bottom: 2px;
+    font-size: 18px;
+}
+.buttons{
+    float: left;
+    margin-left: 35px;
+    font-size: 30px;
+}
+.numbers{
+    border-radius: 50%;
+    width: 27px;
+    font-size: 18px;
+}
+.list{
+    list-style: none;
+    margin-right: 20px;
+}
+.placeholder{
+    width: 24px;
+    text-align: center;
+    line-height: 17px;
+    border-radius: 50%;
+}
